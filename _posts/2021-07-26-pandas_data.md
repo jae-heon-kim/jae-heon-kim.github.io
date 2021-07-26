@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "pandas data process"
+---
+
 # PYTHON PROGRAMMING FUNDAMENTALS  
 
 
